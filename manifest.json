@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "main.css": {
+      "files": [
+        "main.scss"
+      ],
+      "main": true
+    }
+  }
+}
