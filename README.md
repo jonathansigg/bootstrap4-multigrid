@@ -4,7 +4,7 @@ Multiple Grids for Bootstrap 4
 **Install**
 Install with bower:
 ```
-bower install --save bootstrap4-multigrid
+bower install bootstrap4-multigrid --save
 ```
 
 You can adjust grids with variable:
